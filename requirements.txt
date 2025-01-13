@@ -6,7 +6,7 @@ pytest
 pytest-runner
 sphinx
 sphinx_click
-virtualenv==16.2.0
+virtualenv==20.26.6
 watchdog
 requests
 numba
